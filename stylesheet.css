@@ -1,0 +1,16 @@
+h1{
+    background-color: blue;
+    font-variant: small-caps;
+    letter-spacing: 5px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 300;
+    color: darkgoldenrod;
+    background-color: darkred;
+}
+b{
+    color: rgb(65, 85, 46);
+    background-color: cornsilk;
+}
