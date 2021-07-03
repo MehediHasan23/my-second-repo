@@ -31,16 +31,15 @@ a:active{
     color: darkred;
     background-color: mediumblue;
 }
-.ol{
+.ol:hover{
     list-style: circle ;
     font-variant: small-caps;
-    color: rgb(8, 8, 8);
+    color: rgb(28, 131, 7);
+    background-color: tomato;
 }
-.ul{
+.ul:hover{
     list-style: lower-greek;
     color: rgb(255, 171, 25);
+    background-color: red;
     font-weight: 700;
-}
-div{
-    background-color: #d3cce349;
 }
