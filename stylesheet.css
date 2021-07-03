@@ -31,3 +31,16 @@ a:active{
     color: darkred;
     background-color: mediumblue;
 }
+.ol{
+    list-style: circle ;
+    font-variant: small-caps;
+    color: rgb(8, 8, 8);
+}
+.ul{
+    list-style: lower-greek;
+    color: rgb(255, 171, 25);
+    font-weight: 700;
+}
+div{
+    background-color: #d3cce349;
+}
