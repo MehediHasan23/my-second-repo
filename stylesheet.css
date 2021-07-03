@@ -77,3 +77,20 @@ dl{
     background-color: orangered;
     color: yellow;
 }
+.m1{
+    width: 300px;
+    border: 2px solid red;
+    margin: auto;
+    border-radius: 10px;
+    text-align: justify;
+    padding: 5px;
+}
+.m2{
+    max-width: 300px;
+    border: 2px ridge brown;
+    margin: auto;
+    border-radius: 10px;
+    text-align: justify;
+    padding: 10px;
+
+}
