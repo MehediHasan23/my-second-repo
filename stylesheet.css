@@ -63,3 +63,17 @@ td:hover{
     color: orangered;
     background-color: yellow;
 }
+dl dt{
+    text-align: center;
+}
+dd{
+    text-align: center;
+}
+dl{
+    border: 1px solid greenyellow;
+    border-radius: 50px;
+    margin: 40px;
+    padding: 30px;
+    background-color: orangered;
+    color: yellow;
+}
