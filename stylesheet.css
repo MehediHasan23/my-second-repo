@@ -43,3 +43,23 @@ a:active{
     background-color: red;
     font-weight: 700;
 }
+table,th,td{
+    border: 1px solid greenyellow;
+    border-collapse: collapse;
+    padding: 20px;
+    
+}
+table{
+    width: 50%;
+    text-align: left;
+    background-color: tomato;
+    
+}
+th:hover{
+    color: greenyellow;
+    background-color: indigo;
+}
+td:hover{
+    color: orangered;
+    background-color: yellow;
+}
